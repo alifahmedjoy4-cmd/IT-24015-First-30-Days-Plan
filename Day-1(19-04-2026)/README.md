@@ -24,18 +24,16 @@ public class Main {
 ```
 # The code of Example 02
 ```java
-class Student {
+public class Student{
     String name;
     int Roll;
     String district;
     String Number;
-
     void Show() {
-        System.out.println("Name: ");
-        System.out.println("Roll: ";
-        System.out.println("District: ");
-        System.out.println("Number: ");
-        System.out.println();
+        System.out.println(name);
+        System.out.println(Roll);
+        System.out.println(district);
+        System.out.println(Number);
     }
 }
 
