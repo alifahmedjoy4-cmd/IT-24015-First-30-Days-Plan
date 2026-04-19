@@ -1,4 +1,5 @@
 # The code of Example 01
+```java
 public class Car {
     String color;
     String model;
@@ -20,7 +21,9 @@ public class Main {
         myCar.displayInfo();
     }
 }
+```
 # The code of Example 02
+```java
 class Student {
     String name;
     int Roll;
@@ -60,3 +63,4 @@ public class Main_student {
         s3.Show();
     }
 }
+```
