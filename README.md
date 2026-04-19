@@ -1,4 +1,4 @@
-# IT-24024 First 30 Days Plan
+# IT-24015 First 30 Days Plan
 
 ## Overview
 This repository documents a 30-day learning plan focused on IT fundamentals and programming concepts. Each day contains a topic, resources, and example code.
@@ -15,7 +15,7 @@ This repository documents a 30-day learning plan focused on IT fundamentals and 
 https://youtu.be/IWFzm8qlR1c?si=H5U8v8RDIWxkBxzG
 
 **Code:**
-https://github.com/Mohit-65-islam/IT-24065-First-30-Days-Plan/tree/main/Day-1(19-04-2026)
+https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-1(19-04-2026)
 
 **Summary:**
 - Definition of class and object
