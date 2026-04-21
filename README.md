@@ -48,3 +48,13 @@ https://www.youtube.com/watch?v=acfR5vRTZvc\&list=PLSGubLIO9kuDMrAqU8bVQx4Zv-E-6
 **Code:**
 https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-3
 
+---
+
+## Day 04
+**Topic:** Inheritance In Java
+
+**Video:**
+ https://www.youtube.com/watch?v=j\_VA2Rp6jM0\&list=PLSGubLIO9kuDMrAqU8bVQx4Zv-E-6AEnj\&index=6
+
+**Code:**
+https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-4
