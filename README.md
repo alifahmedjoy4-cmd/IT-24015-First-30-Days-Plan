@@ -1,5 +1,8 @@
 # IT-24015 First 30 Days Plan
 
+## Course Title :
+Object Oriented Pattern & Design Lab
+
 ## Overview
 This repository documents a 30-day learning plan focused on IT fundamentals and programming concepts. Each day contains a topic, resources, and example code.
 
@@ -29,7 +32,19 @@ https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-1
 **Topic:** Using Encapsulation
 
 **Video:**
-https://www.youtube.com/watch?
+ https://www.youtube.com/watch?v=HZUUYnIZO\_0\&list=PLSGubLIO9kuDMrAqU8bVQx4Zv-E-6AEnj\&index=4
 
 **Code:**
 https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-2
+
+---
+
+## Day 03
+**Topic:** Java Constructors
+
+**Video:**
+https://www.youtube.com/watch?v=acfR5vRTZvc\&list=PLSGubLIO9kuDMrAqU8bVQx4Zv-E-6AEnj\&index=5
+
+**Code:**
+https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-3
+
