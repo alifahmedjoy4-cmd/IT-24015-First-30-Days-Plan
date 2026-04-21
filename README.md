@@ -24,3 +24,12 @@ https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-1
 - Basic examples
 
 ---
+
+## Day 02
+**Topic:** Using Encapsulation
+
+**Video:**
+https://www.youtube.com/watch?
+**Code:**
+https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-1(19-04-2026)
+
