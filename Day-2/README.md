@@ -1,6 +1,5 @@
 # The Example 1
-
----
+```java
 class Employee {
     private String name;
     private double salary;
@@ -33,11 +32,9 @@ public class Main {
         System.out.println(emp.getName() + " earns " + emp.getSalary());
     }
 }
-
----
+```
 # The Example 2
-
----
+```java
 class Student {
     private String studentId;
     private char grade;
@@ -73,5 +70,4 @@ public class SchoolSystem {
         System.out.println("Grade: " + s1.getGrade());
     }
 }
-
----
+```
