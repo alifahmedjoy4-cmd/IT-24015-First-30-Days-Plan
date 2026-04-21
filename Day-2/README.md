@@ -1,4 +1,5 @@
 # The Example 1
+
 ---
 class Employee {
     private String name;
@@ -35,6 +36,7 @@ public class Main {
 
 ---
 # The Example 2
+
 ---
 class Student {
     private String studentId;
