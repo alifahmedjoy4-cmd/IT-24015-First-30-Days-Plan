@@ -81,3 +81,14 @@ https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-5
 **Code:**
 https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-6
 
+---
+
+## Day 07
+**Topic:** Inner Classes In Java
+
+**Video:**
+  https://www.youtube.com/watch?v=lsJ9QjJPbx8\&list=PLSGubLIO9kuDMrAqU8bVQx4Zv-E-6AEnj\&index=9
+  
+**Code:**
+https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-7
+
