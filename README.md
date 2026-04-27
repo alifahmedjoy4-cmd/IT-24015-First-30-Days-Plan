@@ -61,7 +61,7 @@ https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-4
 
 ---
 
-## Day 04
+## Day 05
 **Topic:** Polymorphism
 
 **Video:**
@@ -69,4 +69,15 @@ https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-4
 
 **Code:**
 https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-5
+
+---
+
+## Day 06
+**Topic:** Abstration
+
+**Video:**
+  https://www.youtube.com/watch?v=1SXyi3DK-88\&list=PLSGubLIO9kuDMrAqU8bVQx4Zv-E-6AEnj\&index=8
+  
+**Code:**
+https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-6
 
