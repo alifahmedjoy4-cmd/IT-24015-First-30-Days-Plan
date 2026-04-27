@@ -58,3 +58,15 @@ https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-3
 
 **Code:**
 https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-4
+
+---
+
+## Day 04
+**Topic:** Polymorphism
+
+**Video:**
+  https://www.youtube.com/watch?v=bLke13zY4rg\&list=PLSGubLIO9kuDMrAqU8bVQx4Zv-E-6AEnj\&index=7
+
+**Code:**
+https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-5
+
