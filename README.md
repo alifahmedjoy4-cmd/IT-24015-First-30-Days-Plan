@@ -120,7 +120,7 @@ https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-9
 **Topic:** Hash set & Tree set
 
 **Video:**
-https://www.youtube.com/watch?v=XDw-BkAZYmY\&list=PLSGubLIO9kuDMrAqU8bVQx4Zv-E-6AEnj\&index=12)
+https://www.youtube.com/watch?v=XDw-BkAZYmY\&list=PLSGubLIO9kuDMrAqU8bVQx4Zv-E-6AEnj\&index=12
   
 **Code:**
 https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-10
