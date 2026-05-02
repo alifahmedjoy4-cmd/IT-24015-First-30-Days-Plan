@@ -92,3 +92,36 @@ https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-6
 **Code:**
 https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-7
 
+---
+
+## Day 08
+**Topic:** Java Collection Framework
+
+**Video:**
+ https://www.youtube.com/watch?v=TDHaeHAlPFg\&list=PLSGubLIO9kuDMrAqU8bVQx4Zv-E-6AEnj\&index=10
+  
+**Code:**
+https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-8
+
+---
+
+## Day 09
+**Topic:**  Lists : ArrayList & Linked List
+
+**Video:**
+https://www.youtube.com/watch?v=q-5D9Z9BCVI\&list=PLSGubLIO9kuDMrAqU8bVQx4Zv-E-6AEnj\&index=11 
+  
+**Code:**
+https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-9
+
+---
+
+## Day 10
+**Topic:** Hash set & Tree set
+
+**Video:**
+https://www.youtube.com/watch?v=XDw-BkAZYmY\&list=PLSGubLIO9kuDMrAqU8bVQx4Zv-E-6AEnj\&index=12)
+  
+**Code:**
+https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-10
+
