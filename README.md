@@ -131,7 +131,7 @@ https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-1
 **Topic:** Introduction to Date, Local Time and Zoned Time
 
 **Video:**
-https://www.youtube.com/watch?v=XDw-BkAZYmY\&list=PLSGubLIO9kuDMrAqU8bVQx4Zv-E-6AEnj\&index=13
+https://www.youtube.com/watch?v=rs1WKrln-9U
   
 **Code:**
 https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-11
@@ -142,7 +142,7 @@ https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-1
 **Topic:** Formatting Dates
 
 **Video:**
-https://www.youtube.com/watch?v=XDw-BkAZYmY\&list=PLSGubLIO9kuDMrAqU8bVQx4Zv-E-6AEnj\&index=14
+https://www.youtube.com/watch?v=ieveCaLfrlE
   
 **Code:**
 https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-12
