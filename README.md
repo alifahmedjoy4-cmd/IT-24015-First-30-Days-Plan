@@ -125,3 +125,26 @@ https://www.youtube.com/watch?v=XDw-BkAZYmY\&list=PLSGubLIO9kuDMrAqU8bVQx4Zv-E-6
 **Code:**
 https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-10
 
+---
+
+## Day 11
+**Topic:** Introduction to Date, Local Time and Zoned Time
+
+**Video:**
+https://www.youtube.com/watch?v=XDw-BkAZYmY\&list=PLSGubLIO9kuDMrAqU8bVQx4Zv-E-6AEnj\&index=13
+  
+**Code:**
+https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-11
+
+---
+
+## Day 12
+**Topic:** Formatting Dates
+
+**Video:**
+https://www.youtube.com/watch?v=XDw-BkAZYmY\&list=PLSGubLIO9kuDMrAqU8bVQx4Zv-E-6AEnj\&index=14
+  
+**Code:**
+https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-12
+
+
