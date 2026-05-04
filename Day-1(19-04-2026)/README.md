@@ -5,7 +5,7 @@ public class Car {
     String model;
     int year;
 
-    void displayInfo() {
+   public void displayInfo() {
         System.out.println("Car's Color : " + color);
         System.out.println("Car's Model : " + model);
         System.out.println("Car's Year  : " + year);
@@ -29,7 +29,7 @@ public class Student{
     int Roll;
     String district;
     String Number;
-    void Show() {
+   public void Show() {
         System.out.println(name);
         System.out.println(Roll);
         System.out.println(district);
