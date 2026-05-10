@@ -147,4 +147,57 @@ https://www.youtube.com/watch?v=ieveCaLfrlE
 **Code:**
 https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-12
 
+---
+
+## Day 13
+**Topic:** Using TimeZone in Java
+
+**Video:**
+https://www.youtube.com/watch?v=apUcrW2Tmd8
+
+**Code:**
+https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-13
+
+---
+
+## Day 14
+**Topic:** Parsing Dates from Strings
+
+**Video:**
+https://www.youtube.com/watch?v=wNNcI8ktP34
+  
+**Code:**
+https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-14
+
+---
+
+## Day 15
+**Topic:** Four Piller of OOP
+**Video:**
+
+  
+**Code:**
+https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-15
+
+---
+
+## Day 16
+**Topic:** Constructor Chaining
+
+**Video:**
+
+  
+**Code:**
+https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-16
+
+---
+
+## Day 17
+**Topic:** Object copying
+
+**Video:**
+
+  
+**Code:**
+https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-17
 
