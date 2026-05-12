@@ -1,31 +1,36 @@
+import java.nio.file.*;
 
-
-class Book {
-    String title;
-
-    Book(String title) {
-        this.title = title;
-    }
-
-    // Deep copy method
-    Book deepCopy() {
-        return new Book(new String(this.title));
-    }
-}
-
-public class Example2 {
-
+public class DirectoryExample2 {
     public static void main(String[] args) {
 
-        Book b1 = new Book("Java");
+        try {
+            Path path = Paths.get("DataFolder");
 
-        // Deep copy
-        Book b2 = b1.deepCopy();
+            // 1. Create directory
+            if (!Files.exists(path)) {
+                Files.createDirectory(path);
+                System.out.println("Directory created.");
+            }
 
-        b2.title = "Python";
+            // 2. Create files inside directory
+            Path file1 = Paths.get("DataFolder/file1.txt");
+            Path file2 = Paths.get("DataFolder/file2.txt");
 
-        System.out.println("Deep Copy Example:");
-        System.out.println("b1 title: " + b1.title);
-        System.out.println("b2 title: " + b2.title);
+            Files.createFile(file1);
+            Files.createFile(file2);
+
+            System.out.println("Files created inside directory.");
+
+            // 3. List files in directory
+            System.out.println("Files in directory:");
+            DirectoryStream<Path> stream = Files.newDirectoryStream(path);
+
+            for (Path file : stream) {
+                System.out.println(file.getFileName());
+            }
+
+        } catch (Exception e) {
+            System.out.println("Error: " + e.getMessage());
+        }
     }
 }
