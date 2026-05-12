@@ -1,73 +1,70 @@
 # The Example 1
 ```java
-class Student {
-    String name;
+import java.io.File;
 
-    Student(String name) {
-        this.name = name;
-    }
-
-    // Shallow copy method
-    Student(Student s) {
-        this.name = s.name;
-    }
-}
-
-public class Example1 {
-
+public class DirectoryExample1 {
     public static void main(String[] args) {
 
-        // Reference copy 
-        Student s1 = new Student("Rahim");
-        Student s2 = s1; // reference copy
+        // Create directory object
+        File dir = new File("MyFolder");
 
-        s2.name = "Karim";
+        // 1. Create directory
+        if (dir.mkdir()) {
+            System.out.println("Directory created successfully.");
+        } else {
+            System.out.println("Directory already exists or failed.");
+        }
 
-        System.out.println("Reference Copy:");
-        System.out.println("s1 name: " + s1.name);
-        System.out.println("s2 name: " + s2.name);
+        // 2. Check directory exists
+        if (dir.exists()) {
+            System.out.println("Directory exists: " + dir.getName());
+        }
 
-        // Shallow copy 
-        Student s3 = new Student("Ayesha");
-        Student s4 = new Student(s3); // shallow copy
-
-        s4.name = "Nila";
-
-        System.out.println("\nShallow Copy:");
-        System.out.println("s3 name: " + s3.name);
-        System.out.println("s4 name: " + s4.name);
+        // 3. Delete directory (must be empty)
+        if (dir.delete()) {
+            System.out.println("Directory deleted successfully.");
+        } else {
+            System.out.println("Directory not deleted (maybe not empty).");
+        }
     }
 }
 ```
 # The Example 2
 ```java
-class Book {
-    String title;
+import java.nio.file.*;
 
-    Book(String title) {
-        this.title = title;
-    }
-
-    // Deep copy method
-    Book deepCopy() {
-        return new Book(new String(this.title));
-    }
-}
-
-public class Example2 {
-
+public class DirectoryExample2 {
     public static void main(String[] args) {
 
-        Book b1 = new Book("Java");
+        try {
+            Path path = Paths.get("DataFolder");
 
-        // Deep copy
-        Book b2 = b1.deepCopy();
+            // 1. Create directory
+            if (!Files.exists(path)) {
+                Files.createDirectory(path);
+                System.out.println("Directory created.");
+            }
 
-        b2.title = "Python";
+            // 2. Create files inside directory
+            Path file1 = Paths.get("DataFolder/file1.txt");
+            Path file2 = Paths.get("DataFolder/file2.txt");
 
-        System.out.println("Deep Copy Example:");
-        System.out.println("b1 title: " + b1.title);
-        System.out.println("b2 title: " + b2.title);
+            Files.createFile(file1);
+            Files.createFile(file2);
+
+            System.out.println("Files created inside directory.");
+
+            // 3. List files in directory
+            System.out.println("Files in directory:");
+            DirectoryStream<Path> stream = Files.newDirectoryStream(path);
+
+            for (Path file : stream) {
+                System.out.println(file.getFileName());
+            }
+
+        } catch (Exception e) {
+            System.out.println("Error: " + e.getMessage());
+        }
     }
 }
 ```
