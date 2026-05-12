@@ -1,17 +1,16 @@
-import java.time.LocalDate;
-import java.time.format.DateTimeFormatter;
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
 
 public class Example1 {
-    public static void main(String[] args)
-    {
-        String dateString= "2026-05-02";
-        // Create a DateTimeFormater to define the expected format
+    public static void main(String[] args) throws IOException {
+        File file = new File("test.txt");
+        file.createNewFile();
 
-        DateTimeFormatter formatter= DateTimeFormatter.ofPattern("yyyy-MM-dd");
-        //Parse the string into a localDate object
+        FileWriter writer = new FileWriter(file);
+        writer.write("Hello File");
+        writer.close();
 
-        LocalDate date= LocalDate.parse(dateString, formatter);
-       System.out.println("Parsed Date: "+ date);
+        System.out.println("File created and written.");
     }
-
 }
