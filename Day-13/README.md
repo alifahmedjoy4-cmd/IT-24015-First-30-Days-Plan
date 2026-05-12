@@ -1,45 +1,55 @@
 # The Example 1
 ```java
-import java.time.ZoneId;
-import java.time.ZonedDateTime;
+import java.util.ArrayList;
+
+class Product {
+    int id;
+    String name;
+
+    Product(int id, String name) {
+        this.id = id;
+        this.name = name;
+    }
+}
 
 public class Example1 {
-    public static void main(String[] args){
-        //Creating ZoneId for New York
-        ZoneId DhakaZone = ZoneId.of("Asia/Dhaka");
+    public static void main(String[] args) {
+        ArrayList<Product> cart = new ArrayList<>();
 
-        ZonedDateTime dhakaTime = ZonedDateTime.now(DhakaZone);
-        System.out.println("Time Zone ID: "+ DhakaZone);
-        System.out.println("Current time in Dhaka is : "+dhakaTime);
+        cart.add(new Product(1, "Laptop"));
+        cart.add(new Product(2, "Mouse"));
+        cart.add(new Product(3, "Keyboard"));
+
+        for (Product p : cart) {
+            System.out.println(p.id + " " + p.name);
+        }
     }
-
 }
 ```
 # The Example 2
 ```java
-import java.time.ZoneId;
-import java.time.ZonedDateTime;
-import java.time.format.DateTimeFormatter;
+import java.util.ArrayList;
 
-public class Example2 {
-    public static void main(String[] args){
-        //Define the meeting time in UTC
-        ZonedDateTime meetingTimeUTC= ZonedDateTime.parse("2026-05-30T15:00:00Z");
-        //Define participant time fzones
-        String[] participantTimeZones={
-                "America/New_York",
-                "Europe/London",
-                "Asia/Dhaka"
-        };
+class Product {
+    int id;
+    String name;
 
-        //Formate for displaying the date and time
-        DateTimeFormatter formatter= DateTimeFormatter.ofPattern("yyyy-MM-dd HH:ss z");
-        //print the metting time in each participant's local time zone
+    Product(int id, String name) {
+        this.id = id;
+        this.name = name;
+    }
+}
 
-        System.out.println("Meeting itme in UTC: "+ meetingTimeUTC.format(formatter));
-        for(String timeZone : participantTimeZones){
-            ZonedDateTime localTime= meetingTimeUTC.withZoneSameInstant(ZoneId.of(timeZone));
-            System.out.println("Meeting Time in "+ timeZone + " : "+ localTime.format(formatter));
+public class Example1 {
+    public static void main(String[] args) {
+        ArrayList<Product> cart = new ArrayList<>();
+
+        cart.add(new Product(1, "Laptop"));
+        cart.add(new Product(2, "Mouse"));
+        cart.add(new Product(3, "Keyboard"));
+
+        for (Product p : cart) {
+            System.out.println(p.id + " " + p.name);
         }
     }
 }
