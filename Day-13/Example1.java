@@ -1,14 +1,14 @@
-import java.time.ZoneId;
-import java.time.ZonedDateTime;
+import java.util.TreeMap;
 
 public class Example1 {
-    public static void main(String[] args){
-        //Creating ZoneId for New York
-        ZoneId DhakaZone = ZoneId.of("Asia/Dhaka");
+    public static void main(String[] args) {
+        TreeMap<String, Integer> map = new TreeMap<>();
+        map.put("Watermelon", 3);
+        map.put("Lychee", 1);
+        map.put("Mango", 2);
 
-        ZonedDateTime dhakaTime = ZonedDateTime.now(DhakaZone);
-        System.out.println("Time Zone ID: "+ DhakaZone);
-        System.out.println("Current time in Dhaka is : "+dhakaTime);
+        for (String key : map.keySet()) {
+            System.out.println(key + " " + map.get(key));
+        }
     }
-
 }
