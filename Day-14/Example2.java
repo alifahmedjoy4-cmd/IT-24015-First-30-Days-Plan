@@ -1,24 +1,16 @@
-import java.time.LocalDate;
-import java.time.format.DateTimeFormatter;
-import java.time.format.DateTimeParseException;
+import java.io.File;
+import java.util.Scanner;
 
 public class Example2 {
-    public static void main(String[] args)
-    {
-        String sentence = "The event will take place on 2025-01-23.";
+    public static void main(String[] args) throws Exception {
+        File file = new File("test.txt");
 
-        //Define the date pattern
+        Scanner sc = new Scanner(file);
 
-        DateTimeFormatter formatter=DateTimeFormatter.ofPattern("yyyy-MM-dd");
-        // Extract the date part from the string
-
-        String dateString  = sentence.substring(sentence.indexOf("on")+ 3, sentence.indexOf("."));
-        try {
-            LocalDate date = LocalDate.parse(dateString,formatter);
-            System.out.println("Extracted Date: "+date);
-        }catch (DateTimeParseException e){
-            System.out.println("Error parsing date: " + e.getMessage());
+        while (sc.hasNextLine()) {
+            System.out.println(sc.nextLine());
         }
-    }
 
+        sc.close();
+    }
 }
