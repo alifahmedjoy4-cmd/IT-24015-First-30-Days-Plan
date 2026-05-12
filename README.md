@@ -128,10 +128,10 @@ https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-1
 ---
 
 ## Day 11
-**Topic:** Introduction to Date, Local Time and Zoned Time
+**Topic:** Queues
 
 **Video:**
-https://www.youtube.com/watch?v=rs1WKrln-9U
+ https://youtu.be/PccU1wAdnlM?si=J8yF5pltWxiOzdjQ
   
 **Code:**
 https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-11
@@ -139,10 +139,10 @@ https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-1
 ---
 
 ## Day 12
-**Topic:** Formatting Dates
+**Topic:** HashMap & TreeMap
 
 **Video:**
-https://www.youtube.com/watch?v=ieveCaLfrlE
+ https://youtu.be/ZarOdaT7P2k?si=NUU7yjrREnoLKkxQ
   
 **Code:**
 https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-12
@@ -150,10 +150,10 @@ https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-1
 ---
 
 ## Day 13
-**Topic:** Using TimeZone in Java
+**Topic:** Using collection in real world scenario
 
 **Video:**
-https://www.youtube.com/watch?v=apUcrW2Tmd8
+https://youtu.be/gtmBSl10DvY?si=SDRLVq7KEE2MpHQS
 
 **Code:**
 https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-13
@@ -161,10 +161,10 @@ https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-1
 ---
 
 ## Day 14
-**Topic:** Parsing Dates from Strings
+**Topic:** Introduction to Java File Handling
 
 **Video:**
-https://www.youtube.com/watch?v=wNNcI8ktP34
+https://youtu.be/63c8XmiOrzo?si=J5pTjd2eq9D-pneL
   
 **Code:**
 https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-14
@@ -172,10 +172,10 @@ https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-1
 ---
 
 ## Day 15
-**Topic:** Four Piller of OOP
+**Topic:** Using byte streams
 
 **Video:**
-
+https://youtu.be/NIxcCzJOj3c?si=NIOp7EPtALYN_N4t
   
 **Code:**
 https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-15
@@ -183,10 +183,10 @@ https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-1
 ---
 
 ## Day 16
-**Topic:** Constructor Chaining
+**Topic:** Working with file input and output streams
 
 **Video:**
-
+https://youtu.be/u0SsmS1wFWA?si=W2MPK-Pgo2ywWVVe
   
 **Code:**
 https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-16
@@ -194,10 +194,10 @@ https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-1
 ---
 
 ## Day 17
-**Topic:** Object copying
+**Topic:** Managing Directories in Java
 
 **Video:**
-
+https://www.youtube.com/watch?v=svLv3q-_Fl0&list=PLSGubLIO9kuDMrAqU8bVQx4Zv-E-6AEnj&index=19
   
 **Code:**
 https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-17
