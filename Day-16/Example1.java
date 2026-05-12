@@ -1,35 +1,16 @@
+import java.io.FileOutputStream;
+import java.io.IOException;
 
-
-class Temp {
-
-    // Default constructor
-    Temp() {
-        // Calling constructor with one parameter
-        this(5);
-
-        System.out.println("The Default Constructor");
-    }
-
-    // Constructor with one parameter
-    Temp(int x) {
-        // Calling constructor with two parameters
-        this(5, 15);
-
-        System.out.println("Value of x: " + x);
-    }
-
-    // Constructor with two parameters
-    Temp(int x, int y) {
-        System.out.println("Product of x and y: " + (x * y));
-    }
-}
-
-// Main class
 public class Example1 {
+    public static void main(String[] args) throws IOException {
+        FileOutputStream out = new FileOutputStream("output.txt");
 
-    public static void main(String[] args) {
+        String data = "Hello Java FileOutputStream";
+        byte[] arr = data.getBytes();
 
-        // Creating object of Temp class
-        new Temp();
+        out.write(arr);
+        out.close();
+
+        System.out.println("Data written to file");
     }
 }
