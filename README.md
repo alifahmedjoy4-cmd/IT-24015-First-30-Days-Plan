@@ -202,3 +202,108 @@ https://www.youtube.com/watch?v=svLv3q-_Fl0&list=PLSGubLIO9kuDMrAqU8bVQx4Zv-E-6A
 **Code:**
 https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-17
 
+---
+
+## Day 18
+**Topic:**  Immutable class design, final fields, Defensive copying
+  
+**Code:**
+https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-18
+
+---
+
+## Day 19
+**Topic:** Least privilege principle and Data security design
+
+**Code:**
+https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-19
+
+---
+
+## Day 20
+**Topic:** Method Overloading, Overriding, Dispatch
+  
+**Code:**
+https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-20
+
+
+---
+
+## Day 21
+**Topic:**Upcasting, Downcasting, Design Pattern
+
+**Code:**
+https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-21
+
+---
+
+## Day 22
+**Topic:** Hiding implementation, abstract
+  
+**Code:**
+https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-22
+
+---
+
+## Day 23
+**Topic:** Deep dive into interface and Interface design
+
+**Code:**
+https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-23
+
+---
+
+## Day 24
+**Topic:** Object class method toString(), equals(), hashCode(), clone()
+
+**Code:**
+https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-24
+
+---
+
+## Day 25
+**Topic:**Hashing , cloning (shallow, Deep)
+
+**Code:**
+https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-25
+
+---
+
+## Day 26
+**Topic:** Static and nested class
+
+**Code:**
+https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-26
+
+---
+
+## Day 27
+**Topic:** SOLID principle
+
+**Code:**
+https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-27
+
+---
+
+## Day 28
+**Topic:** Singly Linked List
+
+**Code:**
+https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-28
+
+---
+
+## Day 29
+**Topic:** Stack
+
+**Code:**
+https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-29
+
+---
+
+## Day 30
+**Topic:** Queue
+
+**Code:**
+https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-30
+
